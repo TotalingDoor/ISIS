@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Isis</id>
+    <version>1.0.0</version>
+    <authors>Isis</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\Isis.runtimeconfig.json" target="lib\net5.0\Isis.runtimeconfig.json" />
+    <file src="C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\Isis.dll" target="lib\net5.0\Isis.dll" />
+  </files>
+</package>

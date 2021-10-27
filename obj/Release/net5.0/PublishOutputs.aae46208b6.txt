@@ -1,0 +1,5 @@
+D:\ISIS\Isis.exe
+D:\ISIS\Isis.dll
+D:\ISIS\Isis.deps.json
+D:\ISIS\Isis.runtimeconfig.json
+D:\ISIS\Isis.pdb

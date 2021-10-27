@@ -1,0 +1,14 @@
+C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\Isis.exe
+C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\Isis.deps.json
+C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\Isis.runtimeconfig.json
+C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\Isis.runtimeconfig.dev.json
+C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\Isis.dll
+C:\Users\Simpl\source\repos\Iris\obj\Release\net5.0\Iris.csproj.AssemblyReference.cache
+C:\Users\Simpl\source\repos\Iris\obj\Release\net5.0\Iris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simpl\source\repos\Iris\obj\Release\net5.0\Iris.AssemblyInfoInputs.cache
+C:\Users\Simpl\source\repos\Iris\obj\Release\net5.0\Iris.AssemblyInfo.cs
+C:\Users\Simpl\source\repos\Iris\obj\Release\net5.0\Iris.csproj.CoreCompileInputs.cache
+C:\Users\Simpl\source\repos\Iris\obj\Release\net5.0\Isis.dll
+C:\Users\Simpl\source\repos\Iris\obj\Release\net5.0\Iris.genruntimeconfig.cache
+C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\ref\Isis.dll
+C:\Users\Simpl\source\repos\Iris\obj\Release\net5.0\ref\Isis.dll

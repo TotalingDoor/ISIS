@@ -1,0 +1,14 @@
+C:\Users\Simpl\source\repos\Iris\bin\Release\netcoreapp3.1\Isis.exe
+C:\Users\Simpl\source\repos\Iris\bin\Release\netcoreapp3.1\Isis.deps.json
+C:\Users\Simpl\source\repos\Iris\bin\Release\netcoreapp3.1\Isis.runtimeconfig.json
+C:\Users\Simpl\source\repos\Iris\bin\Release\netcoreapp3.1\Isis.runtimeconfig.dev.json
+C:\Users\Simpl\source\repos\Iris\bin\Release\netcoreapp3.1\Isis.dll
+C:\Users\Simpl\source\repos\Iris\bin\Release\netcoreapp3.1\Isis.pdb
+C:\Users\Simpl\source\repos\Iris\obj\Release\netcoreapp3.1\Iris.csproj.AssemblyReference.cache
+C:\Users\Simpl\source\repos\Iris\obj\Release\netcoreapp3.1\Iris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simpl\source\repos\Iris\obj\Release\netcoreapp3.1\Iris.AssemblyInfoInputs.cache
+C:\Users\Simpl\source\repos\Iris\obj\Release\netcoreapp3.1\Iris.AssemblyInfo.cs
+C:\Users\Simpl\source\repos\Iris\obj\Release\netcoreapp3.1\Iris.csproj.CoreCompileInputs.cache
+C:\Users\Simpl\source\repos\Iris\obj\Release\netcoreapp3.1\Isis.dll
+C:\Users\Simpl\source\repos\Iris\obj\Release\netcoreapp3.1\Isis.pdb
+C:\Users\Simpl\source\repos\Iris\obj\Release\netcoreapp3.1\Iris.genruntimeconfig.cache
