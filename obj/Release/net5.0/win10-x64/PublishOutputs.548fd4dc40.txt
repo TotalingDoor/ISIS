@@ -1,6 +1,0 @@
-C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\win10-x64\publish\Isis.pdb
-C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\win10-x64\publish\clrcompression.dll
-C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\win10-x64\publish\clrjit.dll
-C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\win10-x64\publish\coreclr.dll
-C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\win10-x64\publish\mscordaccore.dll
-C:\Users\Simpl\source\repos\Iris\bin\Release\net5.0\win10-x64\publish\Isis.exe
